@@ -61,3 +61,9 @@ Our baseline pipeline utilizes a **`RandomForestRegressor`**:
 ├── top_10_wards.png      # EDA plot: Top affected wards breakdown
 ├── .gitignore            # Excludes dataset (*.csv) and local artifacts
 └── README.md             # Project documentation
+
+## 👥 Team Members & Roles
+- **Nipun Barua:** Pipeline Architecture & Baseline Model
+- **Mohana Bhowmik:** Data Analysis & Visualizations
+- **[ Aditya Sarkar ]:** Validation Check & Demo Presentation
+-
